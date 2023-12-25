@@ -15,3 +15,12 @@ This repository contains the codebase and resources for predicting sales at Big 
 - **Evaluation Metrics:** Assess model performance using industry-standard metrics.
   
 - **Visualization:** Create informative charts to communicate findings effectively.
+
+- ## Tech Stack 🛠️
+- **Python:** Our primary language for data analysis and machine learning.
+  
+- **Scikit-learn:** Harness the power of this versatile ML library.
+  
+- **Matplotlib & Seaborn:** Craft beautiful visualizations for data exploration.
+  
+- **Jupyter Notebooks:** Interactive and collaborative development environment.
